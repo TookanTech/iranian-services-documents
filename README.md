@@ -8,6 +8,7 @@
 - [Sepehr (Saderat)](https://www.sepehrpay.com/) :heavy_check_mark:
 - [Parsian](https://parsian-bank.ir/) :heavy_check_mark:
 - [AsanPardakht](https://asanpardakht.ir/) :heavy_check_mark:
+- [Walleta](https://walleta.ir/docs/api/) :heavy_check_mark:
 
 ## SMS Service Providers
 
