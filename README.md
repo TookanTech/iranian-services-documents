@@ -6,6 +6,8 @@
 ## Payment Gateways
 - [Saman](https://www.sep.ir) :heavy_check_mark:
 - [Sepehr (Saderat)](https://www.sepehrpay.com/) :heavy_check_mark:
+- [Parsian](https://parsian-bank.ir/) :heavy_check_mark:
+- [AsanPardakht](https://asanpardakht.ir/) :heavy_check_mark:
 
 ## SMS Service Providers
 
